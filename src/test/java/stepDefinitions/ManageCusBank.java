@@ -155,7 +155,7 @@ public class ManageCusBank {
 	@Then("message is display")
 	public void message_is_display() {
 		driver.quit();
-	    System.out.println("Successfully excution");
+	    System.out.println("Successfully execution");
 	}
 
 }
